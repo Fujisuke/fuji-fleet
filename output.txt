@@ -1,0 +1,160 @@
+{| style='width: 100%; '
+{{FujiFleet-10 |
+| name= 1st Floor
+| rname1= 戦艦 (Senkan)
+| 1 = {{FslotJA |Yamato |Kai |132 }}
+| 2 = {{FslotJA |Nagato |Kai |96 }}
+| 3 = {{FslotJA |Mutsu |Kai |92 }}
+| 4 = {{FslotJA |Musashi |Kai |90 }}
+| rname2= 正規空母 (Seiki-kubo)
+| 11 = {{FslotJA |Kaga |Kai |99 }}
+| 12 = {{FslotJA |Zuikaku |Kai Ni |98 }}
+| 13 = {{FslotJA |Shoukaku |Kai Ni |98 }}
+| 14 = {{FslotJA |Akagi |Kai |97 }}
+| 15 = {{FslotJA |Hiryuu |Kai Ni |95 }}
+| 16 = {{FslotJA |Souryuu |Kai Ni |91 }}
+| 17 = {{FslotJA |Katsuragi | |44 }}
+| 18 = {{FslotJA |Graf Zeppelin改 |  |27 }}
+}}
+{{FujiFleet-10 |
+| name= 3rd Floor
+| rname1= 航空戦艦 (Koku-Senkan)
+| 1 = {{FslotJA |Yamashiro |Kai Ni |96 }}
+| 2 = {{FslotJA |Fusou |Kai Ni |95 }}
+| 3 = {{FslotJA |Ise |Kai |95 }}
+| 4 = {{FslotJA |Hyuuga |Kai |94 }}
+| rname2= 高速戦艦 (Kosoku-Senkan)
+| 11 = {{FslotJA |Haruna |Kai Ni |99 }}
+| 12 = {{FslotJA |Italia | |98 }}
+| 13 = {{FslotJA |Kongou |Kai Ni |97 }}
+| 14 = {{FslotJA |Kirishima |Kai Ni |96 }}
+| 15 = {{FslotJA |Hiei |Kai Ni |92 }}
+| 16 = {{FslotJA |Roma改 | |90 }}
+}}
+{{FujiFleet-10 |
+| name= 
+| rname1= 航空巡洋艦 (Koku-Junyoukan)
+| 1 = {{FslotJA |Tone |Kai Ni |97 }}
+| 2 = {{FslotJA |Chikuma |Kai Ni |96 }}
+| 3 = {{FslotJA |Mogami |Kai |90 }}
+| 4 = {{FslotJA |Suzuya |Kai |90 }}
+| 5 = {{FslotJA |Kumano |Kai |79 }}
+| rname2= 重巡洋艦 (Ju-Junyoukan)
+| 11 = {{FslotJA |Maya |Kai Ni |99 }}
+| 12 = {{FslotJA |Myoukou |Kai Ni |95 }}
+| 13 = {{FslotJA |Ashigara |Kai Ni |93 }}
+| 14 = {{FslotJA |Prinz Eugen改 |  |91 }}
+| 15 = {{FslotJA |Nachi |Kai Ni |90 }}
+| 16 = {{FslotJA |Haguro |Kai Ni |90 }}
+| 17 = {{FslotJA |Choukai |Kai Ni |90 }}
+| 18 = {{FslotJA |Furutaka |Kai Ni |83 }}
+| 19 = {{FslotJA |Zara改 | |44 }}
+| 20 = {{FslotJA |加古 | |1 }}
+}}
+{{FujiFleet-10 |
+| name= 重巡洋艦
+| rname1= 潜水艦 (Sensuikan)
+| 1 = {{FslotJA |Ro-500 | |99 }}
+| 2 = {{FslotJA |I-8 |Kai |98 }}
+| 3 = {{FslotJA |I-58 |Kai |97 }}
+| 4 = {{FslotJA |I-19 |Kai |95 }}
+| 5 = {{FslotJA |I-168 |Kai |92 }}
+| 6 = {{FslotJA |Maruyu | |28 }}
+| 7 = {{FslotJA |Maruyu | |5 }}
+| 8 = {{FslotJA |I-19 | |1 }}
+| 9 = {{FslotJA |I-168 | |1 }}
+| rname2= 軽空母 (Kei-Kubo)
+| 11 = {{FslotJA |Junyou |Kai Ni |97 }}
+| 12 = {{FslotJA |Chitose | |93 }}
+| 13 = {{FslotJA |Ryuujou |Kai Ni |91 }}
+| 14 = {{FslotJA |Hiyou |Kai |91 }}
+| 15 = {{FslotJA |Zuihou |Kai |78 }}
+| 16 = {{FslotJA |Chiyoda | |69 }}
+}}
+{{FujiFleet-10 |
+| name= 重雷装巡洋艦
+| rname1= 駆逐艦 (Kuchikukan)
+| 1 = {{FslotJA |Yukikaze |Kai |98 }}
+| 2 = {{FslotJA |Shimakaze |Kai |98 }}
+| 3 = {{FslotJA |Shigure |Kai Ni |92 }}
+| 4 = {{FslotJA |Kasumi |Kai Ni |91 }}
+| 5 = {{FslotJA |Ayanami |Kai Ni |91 }}
+| 6 = {{FslotJA |Teruzuki |Kai |86 }}
+| 7 = {{FslotJA |Ushio |Kai Ni |84 }}
+| 8 = {{FslotJA |Fubuki |Kai Ni |83 }}
+| 9 = {{FslotJA |Hatsushimo |Kai Ni |77 }}
+| 10 = {{FslotJA |Yuudachi |Kai Ni |76 }}
+| rname2= 駆逐艦 (Kuchikukan)
+| 11 = {{FslotJA |Yayoi |Kai |75 }}
+| 12 = {{FslotJA |Samidare | |73 }}
+| 13 = {{FslotJA |Ikazuchi |Kai |72 }}
+| 14 = {{FslotJA |Inazuma |Kai |72 }}
+| 15 = {{FslotJA |Akatsuki |Kai Ni |72 }}
+| 16 = {{FslotJA |Верный |  |72 }}
+| 17 = {{FslotJA |Uzuki |Kai |72 }}
+| 18 = {{FslotJA |Amatsukaze | |70 }}
+| 19 = {{FslotJA |Tokitsukaze | |64 }}
+| 20 = {{FslotJA |Kiyoshimo |Kai |60 }}
+{{FujiFleet-10 |
+| name= 
+| rname1= 駆逐艦 (Kuchikukan)
+| 1 = {{FslotJA |Harusame |Kai |60 }}
+| 2 = {{FslotJA |Tanikaze |Kai |57 }}
+| 3 = {{FslotJA |Hagikaze |Kai |52 }}
+| 4 = {{FslotJA |Z1改 |Kai |50 }}
+| 5 = {{FslotJA |Libeccio改 |  |50 }}
+| 6 = {{FslotJA |Kawakaze |Kai |48 }}
+| 7 = {{FslotJA |Isokaze |Kai |46 }}
+| 8 = {{FslotJA |Hatsuzuki |Kai |46 }}
+| 9 = {{FslotJA |Umikaze |Kai |41 }}
+| 10 = {{FslotJA |Asagumo | |12 }}
+| rname2= 駆逐艦 (Kuchikukan)
+| 11 = {{FslotJA |Asashimo | |8 }}
+| 12 = {{FslotJA |三日月 | |1 }}
+| 13 = {{FslotJA |大潮 | |1 }}
+| 14 = {{FslotJA |Hatsukaze | |1 }}
+| 15 = {{FslotJA |夕雲 | |1 }}
+| 16 = {{FslotJA |Kazagumo | |1 }}
+| 17 = {{FslotJA |Kazagumo | |1 }}
+}}
+{{FujiFleet-10 |
+| name= 
+| rname1= 軽巡洋艦 (Kei-Junyoukan)
+| 1 = {{FslotJA |Abukuma | |98 }}
+| 2 = {{FslotJA |Sakawa |Kai |98 }}
+| 3 = {{FslotJA |Ooyodo |Kai |93 }}
+| 4 = {{FslotJA |Isuzu | |92 }}
+| 5 = {{FslotJA |Jintsuu |Kai Ni |91 }}
+| 6 = {{FslotJA |Abukuma | |91 }}
+| 7 = {{FslotJA |Sendai |Kai Ni |80 }}
+| 8 = {{FslotJA |Yahagi |Kai |77 }}
+| 9 = {{FslotJA |Ooi | |1 }}
+| 10 = {{FslotJA |那珂 | |1 }}
+| rname2= 軽巡洋艦 (Kei-Junyoukan)
+| 11 = {{FslotJA |Abukuma | |1 }}
+| 12 = {{FslotJA |夕張 | |1 }}
+}}
+{{FujiFleet-10 |
+| name= 高速戦艦
+| rname1= Auxiliary (Auxiliary)
+| 1 = {{FslotJA |あきつ | |38 }}
+| 2 = {{FslotJA |Akashi |Kai |36 }}
+| 3 = {{FslotJA |Kashima |Kai |35 }}
+| 4 = {{FslotJA |Hayasui |Kai |27 }}
+| 5 = {{FslotJA |Taigei | |10 }}
+| rname2= 水上機母艦 (Suijou-Kibokan)
+| 11 = {{FslotJA |Chiyoda | |56 }}
+| 12 = {{FslotJA |Mizuho |Kai |48 }}
+| 13 = {{FslotJA |Akitsushima | |42 }}
+}}
+{{FujiFleet-10 |
+| name= Auxiliary
+| rname1= 重雷装巡洋艦 (Juraisou-junyoukan)
+| 1 = {{FslotJA |Kitakami |Kai Ni |98 }}
+| 2 = {{FslotJA |Ooi |Kai Ni |97 }}
+| 3 = {{FslotJA |Kiso |Kai Ni |92 }}
+| rname2= Room 102 : 正規空母 (Seiki-kubo)
+}}
+|}
+
+__NOTOC__
